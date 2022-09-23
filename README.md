@@ -7,7 +7,7 @@ DSN example
 -----------
 
 ```
-CONEXTEO_DSN=conexteo://APPLICATION_KEY:APPLICATION_SECRET@default?sender=SENDER
+CONEXTEO_DSN=conexteo://APP_ID:API_KEY@default?sender=SENDER
 ```
 
 where:
