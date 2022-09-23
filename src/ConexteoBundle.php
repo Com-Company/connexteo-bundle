@@ -1,6 +1,6 @@
 <?php
 
-namespace Connected\Connexteo;
+namespace Connected\Conexceto;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

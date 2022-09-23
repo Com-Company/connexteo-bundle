@@ -1,6 +1,6 @@
 <?php
 
-namespace Connected\Connexteo\DependencyInjection;
+namespace Connected\Conexceto\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;

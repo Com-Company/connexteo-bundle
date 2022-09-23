@@ -1,6 +1,6 @@
 <?php
 
-namespace Connected\Connexteo\Transport;
+namespace Connected\Conexceto\Transport;
 
 use Symfony\Component\Notifier\Exception\UnsupportedSchemeException;
 use Symfony\Component\Notifier\Transport\AbstractTransportFactory;
@@ -27,6 +27,6 @@ final class ConexteoTransportFactory extends AbstractTransportFactory
 
     protected function getSupportedSchemes(): array
     {
-        return ['ovhcloud'];
+        return ['conexteo'];
     }
 }

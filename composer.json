@@ -13,7 +13,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Connected\\Connexteo\\": "src/"
+      "Connected\\Conexceto\\": "src/"
     }
   },
   "require": {
