@@ -1,0 +1,4 @@
+services:
+  Connected\Conexteo\Transport\CharonClient:
+    parent: notifier.transport_factory.abstract
+    tags: [ 'texter.transport_factory' ]

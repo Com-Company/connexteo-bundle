@@ -1,6 +1,6 @@
 <?php
 
-namespace Symfony\Component\Notifier\Bridge\OvhCloud;
+namespace Connected\Connexteo\Transport;
 
 use Symfony\Component\Notifier\Exception\UnsupportedSchemeException;
 use Symfony\Component\Notifier\Transport\AbstractTransportFactory;
