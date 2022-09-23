@@ -1,6 +1,6 @@
 <?php
 
-namespace Connected\Conexceto\Transport;
+namespace Connected\Conexteo\Transport;
 
 use Symfony\Component\Notifier\Exception\UnsupportedSchemeException;
 use Symfony\Component\Notifier\Transport\AbstractTransportFactory;

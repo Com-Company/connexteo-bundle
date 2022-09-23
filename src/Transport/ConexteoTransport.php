@@ -1,6 +1,6 @@
 <?php
 
-namespace Connected\Conexceto\Transport;
+namespace Connected\Conexteo\Transport;
 
 use Symfony\Component\Notifier\Exception\TransportException;
 use Symfony\Component\Notifier\Exception\UnsupportedMessageTypeException;
