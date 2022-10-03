@@ -17,9 +17,14 @@ final class ConexteoTransport extends AbstractTransport
     protected const HOST = 'api.conexteo.com';
 
     private ?string $sender = null;
+    private string $appId;
+    private string $apiKey;
 
-    public function __construct(private readonly string $appId, private readonly string $apiKey, HttpClientInterface $client = null, EventDispatcherInterface $dispatcher = null)
+    public function __construct(string $appId, string $apiKey, HttpClientInterface $client = null, EventDispatcherInterface $dispatcher = null)
     {
+        $this->appId = $appId;
+        $this->apiKey = $apiKey;
+
         parent::__construct($client, $dispatcher);
     }
 
