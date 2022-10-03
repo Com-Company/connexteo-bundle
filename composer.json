@@ -18,11 +18,11 @@
   },
   "require": {
     "php": ">=7.4",
-    "symfony/http-client": "^5.4|^6.0",
-    "symfony/notifier": "^5.4|^6.0",
-    "symfony/dependency-injection": "^5.4|^6.0",
-    "symfony/config": "^5.4|^6.0",
-    "symfony/http-kernel": "^5.4|^6.0"
+    "symfony/http-client": "^5.3|^5.4|^6.0",
+    "symfony/notifier": "^5.3|^6.0",
+    "symfony/dependency-injection": "^5.3|^6.0",
+    "symfony/config": "^5.3|^6.0",
+    "symfony/http-kernel": "^5.3|^6.0"
   },
   "minimum-stability": "dev"
 }
