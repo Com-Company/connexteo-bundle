@@ -89,7 +89,7 @@ final class ConexteoTransport extends AbstractTransport
         return sprintf('conexteo://%s', $this->getEndpoint());
     }
 
-    public function setSender(?string $sender): static
+    public function setSender(?string $sender)
     {
         $this->sender = $sender;
 
