@@ -1,5 +1,5 @@
 {
-  "name": "connected-company/conexteo-notifier",
+  "name": "com-company/conexteo-notifier",
   "type": "symfony-bundle",
   "description": "Symfony Conexteo Notifier Bridge",
   "keywords": ["sms", "Conexteo", "notifier"],
